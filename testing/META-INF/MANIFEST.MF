@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Content-Package-Id: my_packages:testing
+Content-Package-Roots: /content/we-retail/us/en/women,/content/we-retail
+ /us/en/men
+Content-Package-Type: content
+

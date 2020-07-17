@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<workspaceFilter version="1.0">
+    <filter root="/content/we-retail/us/en/men"/>
+    <filter root="/content/we-retail/us/en/women"/>
+<filter root="/content/we-retail/us/en/boy"/>
+     <filter root="/content/we-retail/us/en/girl"/>
+<filter root="/content/we-retail/us/en/boy"/>
+     <filter root="/content/we-retail/us/en/girl"/>
+</workspaceFilter>
